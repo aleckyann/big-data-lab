@@ -1,0 +1,103 @@
+[
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Sódio",
+        "mínimo" : "135",
+        "máximo" : "145",
+        "unidade" : "mEq/L",
+        "alto" : "Diabetes insipidus; Uso de manitol; Diuréticos de alça; Hiperaldosteronismo;",
+        "baixo" : "Uso de tiazídicos; Hipovolemia; ICC; Cirrose; SIAD; Insuficiência suprarenal; Potomania;",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Potássio",
+        "mínimo" : "3.5",
+        "máximo" : "4.5",
+        "unidade" : "mEq/L",
+        "alto" : "Insuficiência renal; Acidose; Hipoaldosteronismo; Insuficiência adrenal primária; Drogas retentoras de potássio; Hemólise maciça;",
+        "baixo" : "Alcalose metabólica; Diarreia; Fístulas digestivas; Vômitos; Tiazídicos; Diuréticos de alça; ATR tipo I; ATR tipo II; Hiperaldosteronismo; Poliúria; Hipomagnesemia; Estenose da arterial renal; Insulina; Beta-agonistas; Hipotermia;",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Cálcio",
+        "mínimo" : "8.5",
+        "máximo" : "10",
+        "unidade" : "md/dL",
+        "alto" : "Hiperaldosteronismo primário; Hiperaldosteronismo terciário; Malignidades; Doenças granulomatosas; Hipervitaminose D; Aumento da reabsorção óssea; Hipertiroidismo; Síndrome leite-álcali;",
+        "baixo" : "Hipoparatireoidismo primário; Hipomagnesemia; Deficiência de vitamina D; Síndrome do osso faminto; Paratireoidectomia; Quelantes de cálcio;",
+        "comentario" : "Aumentar em 0.8 o valor de Cálcio para cada 1mg que a albumina estiver abaixo de 4mg/dL;"
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Fósforo",
+        "mínimo" : "2.5",
+        "máximo" : "4.3",
+        "unidade" : "mg/dL",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Magnésio",
+        "mínimo" : "",
+        "máximo" : "",
+        "unidade" : "",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Cloro",
+        "mínimo" : "",
+        "máximo" : "",
+        "unidade" : "",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Bicarbonato",
+        "mínimo" : "",
+        "máximo" : "",
+        "unidade" : "",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "pCO2",
+        "mínimo" : "",
+        "máximo" : "",
+        "unidade" : "",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "pO2",
+        "mínimo" : "",
+        "máximo" : "",
+        "unidade" : "",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "pH",
+        "mínimo" : "",
+        "máximo" : "",
+        "unidade" : "",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+
+]
