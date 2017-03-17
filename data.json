@@ -24,7 +24,7 @@
         "exame" : "Cálcio",
         "mínimo" : "8.5",
         "máximo" : "10",
-        "unidade" : "md/dL",
+        "unidade" : "mg/dL",
         "alto" : "Hiperaldosteronismo primário; Hiperaldosteronismo terciário; Malignidades; Doenças granulomatosas; Hipervitaminose D; Aumento da reabsorção óssea; Hipertiroidismo; Síndrome leite-álcali;",
         "baixo" : "Hipoparatireoidismo primário; Hipomagnesemia; Deficiência de vitamina D; Síndrome do osso faminto; Paratireoidectomia; Quelantes de cálcio;",
         "comentario" : "Aumentar em 0.8 o valor de Cálcio para cada 1mg que a albumina estiver abaixo de 4mg/dL;"
@@ -42,9 +42,9 @@
     {
         "categoria"  : "Bioquímica sérica e coagulação",
         "exame" : "Magnésio",
-        "mínimo" : "",
-        "máximo" : "",
-        "unidade" : "",
+        "mínimo" : "1.5",
+        "máximo" : "2.5",
+        "unidade" : "mg/dL",
         "alto" : "",
         "baixo" : "",
         "comentario" : ""
@@ -52,9 +52,9 @@
     {
         "categoria"  : "Bioquímica sérica e coagulação",
         "exame" : "Cloro",
-        "mínimo" : "",
-        "máximo" : "",
-        "unidade" : "",
+        "mínimo" : "102",
+        "máximo" : "109",
+        "unidade" : "mmol/L",
         "alto" : "",
         "baixo" : "",
         "comentario" : ""
@@ -62,9 +62,9 @@
     {
         "categoria"  : "Bioquímica sérica e coagulação",
         "exame" : "Bicarbonato",
-        "mínimo" : "",
-        "máximo" : "",
-        "unidade" : "",
+        "mínimo" : "22",
+        "máximo" : "26",
+        "unidade" : "mEq/L",
         "alto" : "",
         "baixo" : "",
         "comentario" : ""
@@ -72,9 +72,9 @@
     {
         "categoria"  : "Bioquímica sérica e coagulação",
         "exame" : "pCO2",
-        "mínimo" : "",
-        "máximo" : "",
-        "unidade" : "",
+        "mínimo" : "35",
+        "máximo" : "45",
+        "unidade" : "mmHg",
         "alto" : "",
         "baixo" : "",
         "comentario" : ""
@@ -82,9 +82,9 @@
     {
         "categoria"  : "Bioquímica sérica e coagulação",
         "exame" : "pO2",
-        "mínimo" : "",
+        "mínimo" : "60",
         "máximo" : "",
-        "unidade" : "",
+        "unidade" : "mmHg",
         "alto" : "",
         "baixo" : "",
         "comentario" : ""
@@ -92,9 +92,139 @@
     {
         "categoria"  : "Bioquímica sérica e coagulação",
         "exame" : "pH",
-        "mínimo" : "",
-        "máximo" : "",
+        "mínimo" : "7.35",
+        "máximo" : "7.45",
         "unidade" : "",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Lactato Arterial",
+        "mínimo" : "0.5",
+        "máximo" : "1.6",
+        "unidade" : "mmol/L",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Lactato Venoso",
+        "mínimo" : "0.63",
+        "máximo" : "2.44",
+        "unidade" : "mmol/L",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Osmolridade Efetiva",
+        "mínimo" : "275",
+        "máximo" : "295",
+        "unidade" : "mmol/L",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Osmolridade Clássica",
+        "mínimo" : "280",
+        "máximo" : "295",
+        "unidade" : "mmol/L",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Uréia",
+        "mínimo" : "10",
+        "máximo" : "50",
+        "unidade" : "mg/dL",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Creatinina Mulher",
+        "mínimo" : "0.6",
+        "máximo" : "1.2",
+        "unidade" : "md/dL",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Creatinina Homem",
+        "mínimo" : "0.7",
+        "máximo" : "1.4",
+        "unidade" : "md/dL",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Tireoglobulina Normal",
+        "mínimo" : "2",
+        "máximo" : "70",
+        "unidade" : "ng/ml",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Tireoglobulina Tireoidectomizados",
+        "mínimo" : "",
+        "máximo" : "1",
+        "unidade" : "ng/ml",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Ceruloplasmina",
+        "mínimo" : "22",
+        "máximo" : "58",
+        "unidade" : "mg/dL",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Cobre Total Feminimo",
+        "mínimo" : "85",
+        "máximo" : "155",
+        "unidade" : "mcg/dL",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Cobre Total Masculino",
+        "mínimo" : "70",
+        "máximo" : "140",
+        "unidade" : "mcg/dL",
+        "alto" : "",
+        "baixo" : "",
+        "comentario" : ""
+    },
+    {
+        "categoria"  : "Bioquímica sérica e coagulação",
+        "exame" : "Haptoglobina",
+        "mínimo" : "36",
+        "máximo" : "195",
+        "unidade" : "mg/dL",
         "alto" : "",
         "baixo" : "",
         "comentario" : ""
